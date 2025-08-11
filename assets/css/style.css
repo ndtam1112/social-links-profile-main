@@ -126,5 +126,6 @@ body {
     .container {
         width: 100%;
         padding: var(--spacing-large) var(--spacing-large);
+        margin: var(--spacing-large) var(--spacing-large);
     }
 } 
